@@ -39,6 +39,24 @@ Web Server 기능을 제공하는 Web Browser Application
 //Images
 
 
-### Food Safety Label App
+### Food Safety Label App(Bixolon, McDonald's, Lotte GRS)
 
 Food Labeling Application 
+
+- 기간 
+  : 2019.01 ~ 2019.05(Bixolon)
+  : 2020.04 ~ 2020.06(McDonald's)
+  : 2020.12 ~ 2021.02(Lotte GRS)
+- 역할 : Android 개발
+- 사용기술 : Android(Java), SQLite, Svn
+
+#### Bixolon
+//Images
+
+#### McDonald's
+//Images
+
+#### Lotte GRS
+//Images
+
+### 
