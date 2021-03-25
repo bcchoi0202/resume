@@ -7,7 +7,21 @@
 
 - [3. 프로젝트](#프로젝트)
   - [3-1. Bixolon](#Bixolon)
+    - [1) mPrintServer](#mPrintServer)
+    - [2) PDF License Certification Server](#PDF-License-Certification-Server)
+    - [3) Food Safety Label App](#Food-Safety-Label-App)
+       - [Lotte GRS](#Lotte-GRS)
+       - [McDonald's](#McDonald's)
+    - [4) mPrintServer](#mPrintServer)
+    - [5) Bixolon Downloader](#Bixolon-Downloader)
+    - [6) Label Artist Mobile](#Label-Artist-Mobile)
+    - [7) Label Printer SDK](#Label-Printer-SDK)
   - [3-2. Zin Corp.](#ZinCorporation)
+    - [1) 차세대 SPC Mobile POS](#SPC-Mobile-POS-Ver.2)
+    - [2) Total Cunsunting Report(파스쿠찌)](#Total-Cunsunting-Report(파스쿠찌))
+    - [3) Total Cunsunting Report(파리바게트)](#Total-Cunsunting-Report(파리바게트))
+    - [4) SPC Mobile POS](#SPC-Mobile-POS)
+    - [5) Tamati Mobile Order System](#Tamati-Mobile-Order-System)
 - [4. 개인정보](#개인정보)
 
 
@@ -40,28 +54,6 @@ Bixolon 결제 Application
  
 //Images
 
-#### mPrintServer
-
-Web Server 기능을 제공하는 Web Browser Application
-
- - 기간 : 2019.05 ~ 2019.12
- - 역할 : Android 개발(Hybrid)
- - 사용기술 : Android(Java), SQLite, Svn, Git
- - Play Store : https://play.google.com/store/apps/details?id=com.bixolon.mprintserver
-
-//Images
-
-
-### Android Label Printer SDK
-
-Bixolon Label Printer SDK
-
-- 기간 : 2018.03 ~ 2021.03
-- 역할 : Android 개발 및 유지보수
-- 사용기술 : Android(Java)
-
------------------------------------------
-아래 P/J는 기타 프로젝트로, 링크를 통하여 이동하도록 처리 예정 
 
 #### PDF License Certification Server
 
@@ -92,6 +84,17 @@ PDF License 인증용 Server
 //Images
 
 
+#### mPrintServer
+
+Web Server 기능을 제공하는 Web Browser Application
+
+ - 기간 : 2019.05 ~ 2019.12
+ - 역할 : Android 개발(Hybrid)
+ - 사용기술 : Android(Java), SQLite, Svn, Git
+ - Play Store : https://play.google.com/store/apps/details?id=com.bixolon.mprintserver
+
+//Images
+
 
 ### Bixolon Downloader
 
@@ -116,7 +119,7 @@ Label 작성 및 편집, 출력 Application
 //Images
 
 
-### Android Label Printer SDK
+### Label Printer SDK
 
 Bixolon Label Printer SDK
 
@@ -141,7 +144,7 @@ Bixolon Label Printer SDK
 //Images
 
 
-#### SPC SV 점포 컨설팅
+#### Total Cunsunting Report(파스쿠찌)
 
 파스쿠찌 브랜드의 점포 컨설팅용 Application
 
@@ -153,7 +156,7 @@ Bixolon Label Printer SDK
 //Images
 
 
-#### SPC SV 점포 컨설팅
+#### Total Cunsunting Report(파리바게트)
 
 파리바게트 브랜드의 점포 컨설팅용 Application
 
@@ -170,6 +173,7 @@ Bixolon Label Printer SDK
 
 - 기간 : 2014.05 ~ 2017.09
 - 역할 : Android 개발 / Back-end 개발 / Database 개발 
+- 사용기술 : Android(Java), Oracle
 - 성과 : 고객 중심 UI/UX 개선으로 사용자 대폭 상승(약 300%)
 
 //Images
