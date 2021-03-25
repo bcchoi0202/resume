@@ -10,7 +10,7 @@
  - Android Developer (2018.03.05 ~ 2021.03.31)
 
 [Zin Corporation, 주임](https://www.zin.co.kr, 3년 9개월)
- - Android Developer (2014.01.02 ~ 2017.09.30)
+ - Android Developer, Backend developer (2014.01.02 ~ 2017.09.30)
 
 
 ## 회사 프로젝트
@@ -48,7 +48,8 @@ Bixolon Label Printer SDK
 - 역할 : Android 개발 및 유지보수
 - 사용기술 : Android(Java)
 
-
+-----------------------------------------
+아래 P/J는 기타 프로젝트로, 링크를 통하여 이동하도록 처리 예정 
 
 #### PDF License Certification Server
 
