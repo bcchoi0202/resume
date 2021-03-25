@@ -2,7 +2,7 @@
 
 - E-mail : bcchoi0202@nate.com
 - Github : https://github.com/byungchul8658
-
+- Phone : 010-6411-8658
 
 
 ## 경력사항
