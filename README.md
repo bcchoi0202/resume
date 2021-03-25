@@ -1,5 +1,16 @@
 ## 최병철
 
+## 목차
+- [1. 개인정보](#개인정보)
+
+- [2. 경력사항](#경력사항)
+
+- [3. 프로젝트](#프로젝트)
+[
+- [4. 개인정보](#개인정보)
+
+
+## 개인정보
 - E-mail : bcchoi0202@nate.com
 - Github : https://github.com/byungchul8658
 - Phone : 010-6411-8658
@@ -13,7 +24,7 @@
  - Android Developer, Backend developer (2014.01.02 ~ 2017.09.30)
 
 
-## 회사 프로젝트
+## 프로젝트
 
 > ### Bixolon
 
