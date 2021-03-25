@@ -17,17 +17,6 @@
 
 > ### Bixolon
 
-
-#### PDF License Certification Server
-
-PDF License 인증용 Server
-
-- 기간 : 2020.01 ~ 2020.04(Back-end), 2020.11 ~ 2020.12(Front-end) 
-- 역할 : Back / Front 개발
-- 사용기술 : Node JS, Vue JS, Mongo DB, Express Framework
-- URL : http://220.120.107.40:8081
-
-//Images
 #### ICpay(Kicc, KSNet, Nice 3사 통합)
 
 Bixolon 결제 Application
@@ -47,6 +36,28 @@ Web Server 기능을 제공하는 Web Browser Application
  - 역할 : Android 개발(Hybrid)
  - 사용기술 : Android(Java), SQLite, Svn, Git
  - Play Store : https://play.google.com/store/apps/details?id=com.bixolon.mprintserver
+
+//Images
+
+
+### Android Label Printer SDK
+
+Bixolon Label Printer SDK
+
+- 기간 : 2018.03 ~ 2021.03
+- 역할 : Android 개발 및 유지보수
+- 사용기술 : Android(Java)
+
+
+
+#### PDF License Certification Server
+
+PDF License 인증용 Server
+
+- 기간 : 2020.01 ~ 2020.04(Back-end), 2020.11 ~ 2020.12(Front-end) 
+- 역할 : Back / Front 개발
+- 사용기술 : Node JS, Vue JS, Mongo DB, Express Framework
+- URL : http://220.120.107.40:8081
 
 //Images
 
@@ -98,4 +109,4 @@ Bixolon Label Printer SDK
 
 - 기간 : 2018.03 ~ 2021.03
 - 역할 : Android 개발 및 유지보수
-- 사용기술 : Android(Java), 
+- 사용기술 : Android(Java)
