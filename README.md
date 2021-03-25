@@ -6,7 +6,8 @@
 - [2. 경력사항](#경력사항)
 
 - [3. 프로젝트](#프로젝트)
-[
+  - [3-1. Bixolon](#Bixolon)
+  - [3-2. Zin Corp.](#ZinCorporation)
 - [4. 개인정보](#개인정보)
 
 
@@ -122,3 +123,64 @@ Bixolon Label Printer SDK
 - 기간 : 2018.03 ~ 2021.03
 - 역할 : Android 개발 및 유지보수
 - 사용기술 : Android(Java)
+
+
+
+> ### ZinCorporation
+
+#### SPC Mobile POS Ver.2
+
+[SPC Mobile POS](#SPC-Mobile-POS) 프로젝트의 리뉴얼 버전
+점포 근무자의 상품 및 재료 주문, 매출 및 근태이력 조회 등 매장 운영 Application
+
+- 기간 : 2017.04 ~ 2017.09
+- 역할 : Mobile 화면 설계 및 개발 / Spring Back-end 개발
+- 사용기술 : Android 개발(MiAPS), Oracle, Java
+- 성과 : 차세대 Mobile POS 신규 출시 후 빠른 안정화
+
+//Images
+
+
+#### SPC SV 점포 컨설팅
+
+파스쿠찌 브랜드의 점포 컨설팅용 Application
+
+- 기간 : 2015.08 ~ 2015.12
+- 역할 : Android 개발(Hybrid) / Front-End 개발 / Back-End 개발 / Database 개발
+- 사용기술 : Android(Java), Javascript, Highcharts, Oracle
+- 성과 : 체계적인 매출 분석 및 관리로 파스쿠찌 매장 평균 매출 총 7% 이상 상승(6개월 평균)
+
+//Images
+
+
+#### SPC SV 점포 컨설팅
+
+파리바게트 브랜드의 점포 컨설팅용 Application
+
+- 기간 : 2014.11 ~ 2015.07
+- 역할 : Android 개발 / Front-End 개발 /  Back-End 개발 / Database 개발
+- 사용기술 : Android(Java), Javascript, Highcharts, Oracle
+- 성과 : 파리바게뜨 매장 평균 매출 12% 상승(6개월 평균)
+
+//Images
+
+#### SPC Mobile POS
+
+점포 근무자의 상품 및 재료 주문, 매출 및 근태이력 조회 등 매장 운영 Application
+
+- 기간 : 2014.05 ~ 2017.09
+- 역할 : Android 개발 / Back-end 개발 / Database 개발 
+- 성과 : 고객 중심 UI/UX 개선으로 사용자 대폭 상승(약 300%)
+
+//Images
+
+#### Tamati Mobile Order System
+
+중국 Tamati 매장 비대면 주문 시스템
+
+- 기간 : 2014.02 ~ 2014.04
+- 역할 : Android 개발 / Back-end 개발
+- 사용기술 : Android(Java), PHP, My-SQL, SQLite
+- 성과 : POS 프린터 및 주방 프린터 연동을 통한 주문 편의성 증대
+
+//Images
