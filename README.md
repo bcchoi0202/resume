@@ -15,3 +15,11 @@
 ## 회사 프로젝트
 
 > ### Bixolon
+
+### ICpay
+
+ Bixolon 결제 Application
+
+ -  기간 : 2020. 01 ~ 2020.10
+ -  역할 : Android 개발
+ -  Google Store : https://play.google.com/store/apps/details?id=com.bixolon.icpay
