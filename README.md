@@ -41,7 +41,7 @@
 
 ## 프로젝트
 
-> ### Bixolon
+> ## Bixolon
 
 #### ICpay(Kicc, KSNet, Nice 3사 통합)
 
@@ -127,9 +127,11 @@ Bixolon Label Printer SDK
 - 역할 : Android 개발 및 유지보수
 - 사용기술 : Android(Java)
 
+<br/>
+<br/>
+<br/>
 
-
-> ### ZinCorporation
+> ## ZinCorporation
 
 #### SPC Mobile POS Ver.2
 
