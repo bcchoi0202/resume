@@ -177,8 +177,9 @@ Bixolon Label Printer SDK
 - 역할 : Android 개발 / Back-end 개발 / Database 개발 
 - 사용기술 : Android(Java), Oracle
 - 성과 : 고객 중심 UI/UX 개선으로 사용자 대폭 상승(약 300%)
+- 이미지
+![mpos_menu](https://user-images.githubusercontent.com/81198740/120898745-3353e780-c667-11eb-8cee-a4aed4d51a0f.jpg) ![mpos_team_stor](https://user-images.githubusercontent.com/81198740/120898749-3b138c00-c667-11eb-8b12-c0a85a776c94.jpg) ![mpos_item_sales](https://user-images.githubusercontent.com/81198740/120898755-423a9a00-c667-11eb-8751-f77fb47746d7.jpg) ![mpos_order](https://user-images.githubusercontent.com/81198740/120899285-e32a5480-c669-11eb-881d-57d4016e030f.jpg)
 
-//Images
 
 #### Tamati Mobile Order System
 
