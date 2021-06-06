@@ -69,6 +69,7 @@ PDF License 인증용 Server
 - URL : http://220.120.107.40:8081
 
 
+
 ### Food Safety Label App(McDonald's, Lotte GRS)
 
 식품 유통기한 라벨링 Application 
@@ -99,7 +100,6 @@ Web Server 기능을 제공하는 Web Browser Application
 
 
 
-
 ### Bixolon Downloader
 
 Google 인증을 받지 않은 Tablet에서 App download 및 update 기능을 제공하는 Application
@@ -107,6 +107,7 @@ Google 인증을 받지 않은 Tablet에서 App download 및 update 기능을 �
 - 기간 : 2019.06 ~ 2019.07
 - 역할 : Android 개발 
 - 사용기술 : Android(Kotlin), RxKotlin, Retrofit
+
 
 
 ### Label Artist Mobile
