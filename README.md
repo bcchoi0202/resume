@@ -106,7 +106,7 @@ Google 인증을 받지 않은 Tablet에서 App download 및 update 기능을 �
 
 - 기간 : 2019.06 ~ 2019.07
 - 역할 : Android 개발 
-- 사용기술 : Android(Kotlin), RxKotlin, Retrofit
+- 사용기술 : Android, RxKotlin, Retrofit
 
 
 
