@@ -64,7 +64,8 @@ Bixolon 결제 Application
 PDF License 인증용 Server
 
 - 기간 : 2020.01 ~ 2020.04(Back-end), 2020.11 ~ 2020.12(Front-end) 
-- 역할 : Back / Front 개발
+- 개발인원 : 3명
+- 역할 : Back(Sub) / Front(Main) 개발
 - 사용기술 : Node JS, Vue JS, Mongo DB, Express Framework
 - URL : http://220.120.107.40:8081
 
@@ -77,7 +78,7 @@ PDF License 인증용 Server
 - 기간 
   : 2020.04 ~ 2020.07(McDonald's)
   : 2020.12 ~ 2021.03(Lotte GRS)
-- 역할 : Android 개발
+- 역할 : 구조 설계 및 개발
 - 사용기술 : Android(Java), SQLite, Svn
 - 이미지
 
@@ -92,7 +93,7 @@ Web Server 기능을 제공하는 Web Browser Application
 
  - 기간 : 2019.05 ~ 2019.12
  - 역할 : Android 개발(Hybrid)
- - 사용기술 : Android(Java), SQLite, Svn, Git
+ - 사용기술 : Android(Java), SQLite, Svn, Git, Jsp, Css
  - Play Store : https://play.google.com/store/apps/details?id=com.bixolon.mprintserver
  - 이미지
  
@@ -116,7 +117,7 @@ Label 작성 및 편집, 출력 Application
 
 - 기간 : 2018.05 ~ 2019.03
 - 역할 : Android 개발
-- 사용기술 : Android(Java), C++(JNI)
+- 사용기술 : Android(Java), JNI
 - Play Store : https://play.google.com/store/apps/details?id=com.bixolon.labelartist
 - 이미지
 
