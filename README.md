@@ -6,7 +6,10 @@
 - [2. 경력사항](#경력사항)
 
 - [3. 프로젝트](#프로젝트)
-  - [3-1. Bixolon](#Bixolon)
+  - [3-1. Rainus](#Rainus)
+    - [1) Rainus Launcher](#RainusLauncher)
+    - [2) Rainus Player](#RainusPlayer)
+  - [3-2. Bixolon](#Bixolon)
     - [1) mPrintServer](#mPrintServer)
     - [2) PDF License Certification Server](#PDF-License-Certification-Server)
     - [3) Food Safety Label App](#Food-Safety-Label-App)
@@ -16,13 +19,12 @@
     - [5) Bixolon Downloader](#Bixolon-Downloader)
     - [6) Label Artist Mobile](#Label-Artist-Mobile)
     - [7) Label Printer SDK](#Label-Printer-SDK)
-  - [3-2. Zin Corp.](#ZinCorporation)
+  - [3-3. Zin Corp.](#ZinCorporation)
     - [1) 차세대 SPC Mobile POS](#SPC-Mobile-POS-Ver.2)
     - [2) Total Cunsunting Report(파스쿠찌)](#Total-Cunsunting-Report(파스쿠찌))
     - [3) Total Cunsunting Report(파리바게트)](#Total-Cunsunting-Report(파리바게트))
     - [4) SPC Mobile POS](#SPC-Mobile-POS)
     - [5) Tamati Mobile Order System](#Tamati-Mobile-Order-System)
-- [4. 개인정보](#개인정보)
 
 
 ## 개인정보
@@ -31,18 +33,85 @@
 
 
 ## 경력사항
-[Bixolon, 대리](https://bixolon.com, 3년 1개월)
- - Android Developer (2018.03.05 ~ 2021.03.31)
+[Rainus](https://www.rainusbiz.com "라인어스")
+ - 근무기간 : 2021.07 ~ 2022.01 (7개월)
+ - 포지션 : Android Developer 
+ - 직급 : 대리
 
-[Zin Corporation, 주임](https://www.zin.co.kr, 3년 9개월)
- - Android Developer, Backend developer (2014.01.02 ~ 2017.09.30)
+[Bixolon](https://www.bixolon.com "빅솔론")
+ - 근무기간 : 2018.03 ~ 2021.03(3년 1개월)
+ - 포지션 : Android Developer
+ - 직급 : 대리
+
+[Zin Corporation](https://www.zin.co.kr "진코퍼레이션")
+ - 근무기간 : 2014.01 ~ 2017.09 (3년 9개월)
+ - 포지션 : Android Developer, Backend developer 
+ - 직급 : 주임
+
+
+## 사용기술
+### Android
+ - Kotlin, Kotlin DSL
+ - Koin
+ - rxJava
+ - View/Data Binding
+ - MVC, MVP, MVVM Design pattern
+ - Firebase
+ - Room, Realm, SQLite
+
+### Backend
+ 테스트 등에 사용할 간단한 프로토타입을 개발할 수 있는 스킬을 가지고 있습니다. 
+ - Python(flask)
+ - Nodejs
+ 
+### Frontend
+ 테스트 등에 사용할 간단한 프로토타입을 개발할 수 있는 스킬을 가지고 있습니다.
+ - Html
+ - Vue.js
+ - Javascript
+ - Css
+
+### Database
+ 기본적인 쿼리문 및 Procedure, Package를 개발할 수 있는 스킬을 가지고 있습니다.
+ RDBMS : Oracle, Room, SQLite 등
+ NOSQL : Mongo DB, Realm, Maria DB
+ 
+### 기타
+ 이슈관리 : Github
+ 디자인 협업 : Zeplin
+ 버전관리 : Git, SVN
+
+### TODO
+ 현재는 아래 항목을 익히고 있습니다.
+ - Coroutine
+ - Andriod Jetpack
 
 
 ## 프로젝트
+> ## Rainus
+
+> #### RainusLauncher
+ 서버와 통신 및 장치 제어를 위한 Launcher Application
+  - 기간 : 2021.07 ~ 2022.02
+  - 역할 : Android 개발 및 유지보수
+  - 사용기술 : Android(Kotlin, Java)
+  - 이미지
+ 
+
+> #### RainusPlayer
+ Signage 장치에 표시할 광고 재생 Application
+  - 기간 : 2021.07 ~ 2022.02
+  - 역할 : Android 개발 및 유지보수
+  - 지원 포맷 : Video, Webpage, Image 등 (항목 중 n개 조합)
+  - 이미지
+
+<br/>
+<br/>
+<br/>
 
 > ## Bixolon
 
-#### ICpay(Kicc, KSNet, Nice 3사 통합)
+> #### ICpay(Kicc, KSNet, Nice 3사 통합)
 
 Bixolon 결제 Application
 
@@ -59,18 +128,18 @@ Bixolon 결제 Application
 ![영수증](https://user-images.githubusercontent.com/81198740/120916541-270e6f80-c6e5-11eb-91ae-de55ac9dd3cf.png)
 
 
-#### PDF License Certification Server
+> #### PDF License Certification Server
 
 PDF License 인증용 Server
 
 - 기간 : 2020.01 ~ 2020.04(Back-end), 2020.11 ~ 2020.12(Front-end) 
 - 역할 : Back / Front 개발
-- 사용기술 : Node JS, Vue JS, Mongo DB, Express Framework
+- 사용기술 : NodeJS, VueJS, Mongo DB, Express Framework
 - URL : http://220.120.107.40:8081
 
 
 
-### Food Safety Label App(McDonald's, Lotte GRS)
+> ### Food Safety Label App(McDonald's, Lotte GRS)
 
 식품 유통기한 라벨링 Application 
 
@@ -86,7 +155,7 @@ PDF License 인증용 Server
 
 
 
-#### mPrintServer
+> #### mPrintServer
 
 Web Server 기능을 제공하는 Web Browser Application
 
@@ -100,7 +169,7 @@ Web Server 기능을 제공하는 Web Browser Application
 
 
 
-### Bixolon Downloader
+> ### Bixolon Downloader
 
 Google 인증을 받지 않은 Tablet에서 App download 및 update 기능을 제공하는 Application
 
@@ -110,7 +179,7 @@ Google 인증을 받지 않은 Tablet에서 App download 및 update 기능을 �
 
 
 
-### Label Artist Mobile
+> ### Label Artist Mobile
 
 Label 작성 및 편집, 출력 Application
 
@@ -126,7 +195,7 @@ Label 작성 및 편집, 출력 Application
 
 
 
-### Label Printer SDK
+> ### Label Printer SDK
 
 Bixolon Label Printer SDK
 
@@ -140,7 +209,7 @@ Bixolon Label Printer SDK
 
 > ## ZinCorporation
 
-#### SPC Mobile POS Ver.2
+> #### SPC Mobile POS Ver.2
 
 [SPC Mobile POS](#SPC-Mobile-POS) 프로젝트의 리뉴얼 버전
 점포 근무자의 상품 및 재료 주문, 매출 및 근태이력 조회 등 매장 운영 Application
@@ -156,7 +225,7 @@ Bixolon Label Printer SDK
 
 
 
-#### Total Cunsunting Report(파리바게트, 파스쿠찌)
+> #### Total Cunsunting Report(파리바게트, 파스쿠찌)
 
 파리바게트 브랜드의 점포 컨설팅용 Application
 
@@ -171,7 +240,7 @@ Bixolon Label Printer SDK
 
 
 
-#### SPC Mobile POS
+> #### SPC Mobile POS
 
 점포 근무자의 상품 및 재료 주문, 매출 및 근태이력 조회 등 매장 운영 Application
 
@@ -188,7 +257,7 @@ Bixolon Label Printer SDK
 
 
 
-#### Tamati Mobile Order System
+> #### Tamati Mobile Order System
 
 중국 Tamati 매장 비대면 주문 시스템
 
