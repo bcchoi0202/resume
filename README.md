@@ -21,16 +21,20 @@
     - [7) Label Printer SDK](#Label-Printer-SDK)
   - [3-3. Zin Corp.](#ZinCorporation)
     - [1) 차세대 SPC Mobile POS](#SPC-Mobile-POS-Ver.2)
-    - [2) Total Cunsunting Report(파스쿠찌)](#Total-Cunsunting-Report(파스쿠찌))
-    - [3) Total Cunsunting Report(파리바게트)](#Total-Cunsunting-Report(파리바게트))
-    - [4) SPC Mobile POS](#SPC-Mobile-POS)
-    - [5) Tamati Mobile Order System](#Tamati-Mobile-Order-System)
+    - [2) Total Cunsunting Report(파리바게트, 파스쿠찌)](#Total-Cunsunting-Report)
+    - [3) SPC Mobile POS](#SPC-Mobile-POS)
+    - [4) Tamati Mobile Order System](#Tamati-Mobile-Order-System)
 
 
 ## 개인정보
-- E-mail : bcchoi0202@nate.com
-- Phone : 010-6411-8658
+ 이름 : 최병철
+ 취미 : 자전거, 스노우보드, 위스키, 여행, 캠핑
+ 병역 : 병장 만기전역
+ 메일 : bcchoi0202@nate.com
+ 전화 : 010-6411-8658
+ GitHub: https://github.com/bcchoi0202
 
+<span style="background-color:rgb(189,189,189)">엔지니어로 살아가면서, 올바름을 추구하는걸 가장 큰 가치로 여기고 있습니다.</span>
 
 ## 경력사항
 [Rainus](https://www.rainusbiz.com "라인어스")
@@ -77,7 +81,7 @@
  NOSQL : Mongo DB, Realm, Maria DB
  
 ### 기타
- 이슈관리 : Github
+ 이슈관리 : Github, Trello
  디자인 협업 : Zeplin
  버전관리 : Git, SVN
 
@@ -95,7 +99,6 @@
   - 기간 : 2021.07 ~ 2022.02
   - 역할 : Android 개발 및 유지보수
   - 사용기술 : Android(Kotlin, Java)
-  - 이미지
  
 
 > #### RainusPlayer
@@ -103,7 +106,6 @@
   - 기간 : 2021.07 ~ 2022.02
   - 역할 : Android 개발 및 유지보수
   - 지원 포맷 : Video, Webpage, Image 등 (항목 중 n개 조합)
-  - 이미지
 
 <br/>
 <br/>
@@ -225,9 +227,9 @@ Bixolon Label Printer SDK
 
 
 
-> #### Total Cunsunting Report(파리바게트, 파스쿠찌)
+> #### Total Cunsunting Report (파리바게트, 파스쿠찌)
 
-파리바게트 브랜드의 점포 컨설팅용 Application
+파리바게트 및 파스쿠찌 브랜드의 점포 컨설팅 Application
 
 - 기간 : 2014.11 ~ 2015.12
 - 역할 : Android 개발 / Front-End 개발 /  Back-End 개발 / Database 개발
