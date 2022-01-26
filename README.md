@@ -25,6 +25,8 @@
     - [3) SPC Mobile POS](#SPC-Mobile-POS)
     - [4) Tamati Mobile Order System](#Tamati-Mobile-Order-System)
 
+<br/>
+<br/>
 
 ## 개인정보
  이름 : 최병철
@@ -33,8 +35,8 @@
  메일 : bcchoi0202@nate.com
  전화 : 010-6411-8658
  GitHub: https://github.com/bcchoi0202
-
-<span style="background-color:rgb(189,189,189)">엔지니어로 살아가면서, 올바름을 추구하는걸 가장 큰 가치로 여기고 있습니다.</span>
+ 
+<span style="background-color: #BDBDBD;">엔지니어로 살아가면서, 올바름을 추구하는걸 가장 큰 가치로 여기고 있습니다.</span>
 
 ## 경력사항
 [Rainus](https://www.rainusbiz.com "라인어스")
