@@ -38,6 +38,7 @@
   GitHub: https://github.com/bcchoi0202  
 
 
+
 > ## 경력사항 (총 경력 : 7년 5개월)
 [Rainus](https://www.rainusbiz.com "라인어스")
  - 근무기간 : 2021.07 ~ 2022.01 (7개월)
@@ -55,7 +56,7 @@
  - 근무기간 : 2014.01 ~ 2017.09 (3년 9개월)
  - 포지션 : Android Developer, Backend developer 
  - 근무부서 : 운영1팀
- - 직급 : 주임
+ - 직급 : 주임  
 
 
 
@@ -94,7 +95,8 @@
 ### TODO
  현재는 아래 항목을 익히고 있습니다.
  - Coroutine
- - Andriod Jetpack
+ - Andriod Jetpack  
+
 
 
 > ## 프로젝트
