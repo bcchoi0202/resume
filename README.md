@@ -39,7 +39,7 @@
  GitHub: https://github.com/bcchoi0202  
 
 
-## 경력사항
+## 경력사항 (총 경력 : 7년 5개월)
 [Rainus](https://www.rainusbiz.com "라인어스")
  - 근무기간 : 2021.07 ~ 2022.01 (7개월)
  - 포지션 : Android Developer 
@@ -80,9 +80,9 @@
  - Css
 
 ### Database
- 기본적인 쿼리문 및 Procedure, Package를 개발할 수 있는 스킬을 가지고 있습니다.
- RDBMS : Oracle, Room, SQLite 등
- NOSQL : Mongo DB, Realm, Maria DB
+ 각 Database를 사용하여 프로젝트를 개발할 수 있는 스킬을 가지고 있습니다.
+ RDBMS : Oracle, MS-SQL, My-SQL 등
+ NOSQL : Mongo DB, Maria DB
  
 ### 기타
  이슈관리 : Github, Trello
