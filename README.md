@@ -26,6 +26,7 @@
     - [4) Tamati Mobile Order System](#Tamati-Mobile-Order-System)
 
 <br/>
+<br/>
 
 > ## 개인정보
 ![스크린샷 2021-06-07 오후 3 53 37](https://user-images.githubusercontent.com/79304650/151167678-4fa4cefd-cb79-4935-b9e2-1b73a9b341dd.png)  
@@ -37,7 +38,8 @@
   
   GitHub: https://github.com/bcchoi0202  
 
-
+<br/>
+<br/>
 
 > ## 경력사항 (총 경력 : 7년 5개월)
 [Rainus](https://www.rainusbiz.com "라인어스")
@@ -58,7 +60,8 @@
  - 근무부서 : 운영1팀
  - 직급 : 주임  
 
-
+<br/>
+<br/>
 
 > ## 사용기술
 ### Android
@@ -97,7 +100,8 @@
  - Coroutine
  - Andriod Jetpack  
 
-
+<br/>
+<br/>
 
 > ## 프로젝트
  ### Rainus
@@ -115,8 +119,6 @@
   - 역할 : Android 개발 및 유지보수
   - 지원 포맷 : Video, Webpage, Image 등 (항목 중 n개 조합)
 
-<br/>
-<br/>
 <br/>
 
 ### Bixolon
@@ -162,7 +164,6 @@ PDF License 인증 Server
 
 ![해동](https://user-images.githubusercontent.com/81198740/120915510-10651a00-c6df-11eb-8d4a-3e45f6cec013.png) ![자유](https://user-images.githubusercontent.com/81198740/120915513-12c77400-c6df-11eb-882e-21bf0ddfe7cd.png) ![윹ㅎㅇ](https://user-images.githubusercontent.com/81198740/120915515-13f8a100-c6df-11eb-8adc-8ce4d82fdb14.png)
 ![소분](https://user-images.githubusercontent.com/81198740/120915517-16f39180-c6df-11eb-8a72-558596d14fac.png) ![고객](https://user-images.githubusercontent.com/81198740/120915519-1824be80-c6df-11eb-95fc-097339427348.png) ![디비](https://user-images.githubusercontent.com/81198740/120915520-1bb84580-c6df-11eb-8fb1-c25d061aa330.png) ![설정](https://user-images.githubusercontent.com/81198740/120915524-1d820900-c6df-11eb-91a5-a7b2b3ef1241.png)
-
 
 
 #### 4. mPrintServer
@@ -213,8 +214,6 @@ Bixolon Label Printer SDK
 - 역할 : Android 개발 및 유지보수
 - 사용기술 : Android(Java)
 
-<br/>
-<br/>
 <br/>
 
 ## ZinCorporation
