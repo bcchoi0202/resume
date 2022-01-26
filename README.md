@@ -27,18 +27,18 @@
 
 <br/>
 
-## 개인정보
+> ## 개인정보
 ![스크린샷 2021-06-07 오후 3 53 37](https://user-images.githubusercontent.com/79304650/151167678-4fa4cefd-cb79-4935-b9e2-1b73a9b341dd.png)  
   이름 : 최병철  
   취미 : Side P/J 개발, 자전거, 스노우보드, 위스키, 여행, 캠핑, 낚시  
   병역 : 병장 만기전역  
   메일 : bcchoi0202@gmail.com  
   전화 : 010-6411-8658  
- ### 
+  
   GitHub: https://github.com/bcchoi0202  
 
 
-## 경력사항 (총 경력 : 7년 5개월)
+> ## 경력사항 (총 경력 : 7년 5개월)
 [Rainus](https://www.rainusbiz.com "라인어스")
  - 근무기간 : 2021.07 ~ 2022.01 (7개월)
  - 포지션 : Android Developer 
@@ -59,7 +59,7 @@
 
 
 
-## 사용기술
+> ## 사용기술
 ### Android
  - Kotlin, Kotlin DSL
  - Koin
@@ -97,17 +97,17 @@
  - Andriod Jetpack
 
 
-## 프로젝트
-> ## Rainus
+> ## 프로젝트
+ ### Rainus
 
-### RainusLauncher
+#### RainusLauncher
  서버와 통신 및 장치 제어를 위한 Launcher Application
   - 기간 : 2021.07 ~ 2022.02
   - 역할 : Android 개발 및 유지보수
   - 사용기술 : Android(Kotlin, Java)
  
 
-### RainusPlayer
+#### RainusPlayer
  Signage 장치에 표시할 광고 재생 Application
   - 기간 : 2021.07 ~ 2022.02
   - 역할 : Android 개발 및 유지보수
@@ -117,9 +117,9 @@
 <br/>
 <br/>
 
-> ## Bixolon
+### Bixolon
 
-### ICpay(Kicc, KSNet, Nice 3사 통합)
+#### ICpay(Kicc, KSNet, Nice 3사 통합)
 
 Bixolon 결제 Application
 
@@ -136,7 +136,7 @@ Bixolon 결제 Application
 ![영수증](https://user-images.githubusercontent.com/81198740/120916541-270e6f80-c6e5-11eb-91ae-de55ac9dd3cf.png)
 
 
-### PDF License Certification Server
+#### PDF License Certification Server
 
 PDF License 인증 Server
 
@@ -147,7 +147,7 @@ PDF License 인증 Server
 
 
 
-### Food Safety Label App(McDonald's, Lotte GRS)
+#### Food Safety Label App(McDonald's, Lotte GRS)
 
 식품 유통기한 라벨링 Application 
 
@@ -163,7 +163,7 @@ PDF License 인증 Server
 
 
 
-### mPrintServer
+#### mPrintServer
 
 Web Server 기능을 제공하는 Web Browser Application
 
@@ -177,7 +177,7 @@ Web Server 기능을 제공하는 Web Browser Application
 
 
 
-### Bixolon Downloader
+#### Bixolon Downloader
 
 Google 인증을 받지 않은 Tablet에서 App download 및 update 기능을 제공하는 Application
 
@@ -187,7 +187,7 @@ Google 인증을 받지 않은 Tablet에서 App download 및 update 기능을 �
 
 
 
-### Label Artist Mobile
+#### Label Artist Mobile
 
 Label 작성 및 편집, 출력 Application
 
@@ -203,7 +203,7 @@ Label 작성 및 편집, 출력 Application
 
 
 
-### Label Printer SDK
+#### Label Printer SDK
 
 Bixolon Label Printer SDK
 
@@ -215,9 +215,9 @@ Bixolon Label Printer SDK
 <br/>
 <br/>
 
-> ## ZinCorporation
+## ZinCorporation
 
-### SPC Mobile POS Ver.2
+#### SPC Mobile POS Ver.2
 
 [SPC Mobile POS](#SPC-Mobile-POS) 프로젝트의 리뉴얼 버전
 점포 근무자의 상품 및 재료 주문, 매출 및 근태이력 조회 등 매장 운영 Application
@@ -233,7 +233,7 @@ Bixolon Label Printer SDK
 
 
 
-### Total Cunsunting Report (파리바게트, 파스쿠찌)
+#### Total Cunsunting Report (파리바게트, 파스쿠찌)
 
 파리바게트 및 파스쿠찌 브랜드의 점포 컨설팅 Application
 
@@ -248,7 +248,7 @@ Bixolon Label Printer SDK
 
 
 
-### SPC Mobile POS
+#### SPC Mobile POS
 
 점포 근무자의 상품 및 재료 주문, 매출 및 근태이력 조회 등 매장 운영 Application
 
@@ -263,9 +263,7 @@ Bixolon Label Printer SDK
 
 
 
-
-
-### Tamati Mobile Order System
+#### Tamati Mobile Order System
 
 중국 Tamati 매장 비대면 주문 시스템
 
