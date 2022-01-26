@@ -26,7 +26,6 @@
     - [4) Tamati Mobile Order System](#Tamati-Mobile-Order-System)
 
 <br/>
-<br/>
 
 ## 개인정보
 ![스크린샷 2021-06-07 오후 3 53 37](https://user-images.githubusercontent.com/79304650/151167678-4fa4cefd-cb79-4935-b9e2-1b73a9b341dd.png)  
