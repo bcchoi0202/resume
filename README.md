@@ -1,4 +1,4 @@
-## 최병철
+## Android 개발자 최병철입니다.
 
 ## 목차
 - [1. 개인정보](#개인정보)
@@ -100,14 +100,14 @@
 > ## 프로젝트
  ### Rainus
 
-#### RainusLauncher
+#### 1. RainusLauncher
  서버와 통신 및 장치 제어를 위한 Launcher Application
   - 기간 : 2021.07 ~ 2022.02
   - 역할 : Android 개발 및 유지보수
   - 사용기술 : Android(Kotlin, Java)
  
 
-#### RainusPlayer
+#### 2. RainusPlayer
  Signage 장치에 표시할 광고 재생 Application
   - 기간 : 2021.07 ~ 2022.02
   - 역할 : Android 개발 및 유지보수
@@ -119,7 +119,7 @@
 
 ### Bixolon
 
-#### ICpay(Kicc, KSNet, Nice 3사 통합)
+#### 1. ICpay(Kicc, KSNet, Nice 3사 통합)
 
 Bixolon 결제 Application
 
@@ -136,7 +136,7 @@ Bixolon 결제 Application
 ![영수증](https://user-images.githubusercontent.com/81198740/120916541-270e6f80-c6e5-11eb-91ae-de55ac9dd3cf.png)
 
 
-#### PDF License Certification Server
+#### 2. PDF License Certification Server
 
 PDF License 인증 Server
 
@@ -147,7 +147,7 @@ PDF License 인증 Server
 
 
 
-#### Food Safety Label App(McDonald's, Lotte GRS)
+#### 3. Food Safety Label App(McDonald's, Lotte GRS)
 
 식품 유통기한 라벨링 Application 
 
@@ -163,7 +163,7 @@ PDF License 인증 Server
 
 
 
-#### mPrintServer
+#### 4. mPrintServer
 
 Web Server 기능을 제공하는 Web Browser Application
 
@@ -177,7 +177,7 @@ Web Server 기능을 제공하는 Web Browser Application
 
 
 
-#### Bixolon Downloader
+#### 5. Bixolon Downloader
 
 Google 인증을 받지 않은 Tablet에서 App download 및 update 기능을 제공하는 Application
 
@@ -187,7 +187,7 @@ Google 인증을 받지 않은 Tablet에서 App download 및 update 기능을 �
 
 
 
-#### Label Artist Mobile
+#### 6. Label Artist Mobile
 
 Label 작성 및 편집, 출력 Application
 
@@ -203,7 +203,7 @@ Label 작성 및 편집, 출력 Application
 
 
 
-#### Label Printer SDK
+#### 7. Label Printer SDK
 
 Bixolon Label Printer SDK
 
@@ -217,7 +217,7 @@ Bixolon Label Printer SDK
 
 ## ZinCorporation
 
-#### SPC Mobile POS Ver.2
+#### 1. SPC Mobile POS Ver.2
 
 [SPC Mobile POS](#SPC-Mobile-POS) 프로젝트의 리뉴얼 버전
 점포 근무자의 상품 및 재료 주문, 매출 및 근태이력 조회 등 매장 운영 Application
@@ -233,7 +233,7 @@ Bixolon Label Printer SDK
 
 
 
-#### Total Cunsunting Report (파리바게트, 파스쿠찌)
+#### 2. Total Cunsunting Report (파리바게트, 파스쿠찌)
 
 파리바게트 및 파스쿠찌 브랜드의 점포 컨설팅 Application
 
@@ -248,7 +248,7 @@ Bixolon Label Printer SDK
 
 
 
-#### SPC Mobile POS
+#### 3. SPC Mobile POS
 
 점포 근무자의 상품 및 재료 주문, 매출 및 근태이력 조회 등 매장 운영 Application
 
@@ -263,7 +263,7 @@ Bixolon Label Printer SDK
 
 
 
-#### Tamati Mobile Order System
+#### 4. Tamati Mobile Order System
 
 중국 Tamati 매장 비대면 주문 시스템
 
