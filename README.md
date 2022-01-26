@@ -30,29 +30,33 @@
 
 ## 개인정보
 ![스크린샷 2021-06-07 오후 3 53 37](https://user-images.githubusercontent.com/79304650/151167678-4fa4cefd-cb79-4935-b9e2-1b73a9b341dd.png)  
-
- 이름 : 최병철  
- 취미 : 자전거, 스노우보드, 위스키, 여행, 캠핑  
- 병역 : 병장 만기전역  
- 메일 : bcchoi0202@nate.com  
- 전화 : 010-6411-8658  
- GitHub: https://github.com/bcchoi0202  
+ ### 신상정보
+  이름 : 최병철  
+  취미 : 자전거, 스노우보드, 위스키, 여행, 캠핑  
+  병역 : 병장 만기전역  
+  메일 : bcchoi0202@gmail.com  
+  전화 : 010-6411-8658  
+ ### 
+  GitHub: https://github.com/bcchoi0202  
 
 
 ## 경력사항 (총 경력 : 7년 5개월)
 [Rainus](https://www.rainusbiz.com "라인어스")
  - 근무기간 : 2021.07 ~ 2022.01 (7개월)
  - 포지션 : Android Developer 
+ - 근무부서 : 솔루션개발팀
  - 직급 : 대리
 
 [Bixolon](https://www.bixolon.com "빅솔론")
  - 근무기간 : 2018.03 ~ 2021.03(3년 1개월)
  - 포지션 : Android Developer
- - 직급 : 대리
+ - 근무부서 : 소프트웨어 개발팀
+ - 직급 : 대리 
 
 [Zin Corporation](https://www.zin.co.kr "진코퍼레이션")
  - 근무기간 : 2014.01 ~ 2017.09 (3년 9개월)
  - 포지션 : Android Developer, Backend developer 
+ - 근무부서 : 운영1팀
  - 직급 : 주임
 
 
@@ -136,10 +140,10 @@ Bixolon 결제 Application
 
 > #### PDF License Certification Server
 
-PDF License 인증용 Server
+PDF License 인증 Server
 
 - 기간 : 2020.01 ~ 2020.04(Back-end), 2020.11 ~ 2020.12(Front-end) 
-- 역할 : Back / Front 개발
+- 역할 : Backend / Frontend 개발
 - 사용기술 : NodeJS, VueJS, Mongo DB, Express Framework
 - URL : http://220.120.107.40:8081
 
