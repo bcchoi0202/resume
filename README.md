@@ -29,7 +29,7 @@
 <br/>
 
 > ## 개인정보
-![itsme](https://user-images.githubusercontent.com/79304650/151269762-8c641a31-fcbe-47e4-b34d-be1a1192551d.jpg)
+<img src = "https://user-images.githubusercontent.com/79304650/151269762-8c641a31-fcbe-47e4-b34d-be1a1192551d.jpg" width="288px" height="512px">
   이름 : 최병철  
   취미 : Side P/J 개발, 자전거, 스노우보드, 위스키, 여행, 캠핑, 낚시  
   병역 : 병장 만기전역  
