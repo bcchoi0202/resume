@@ -118,8 +118,7 @@
   - 기간 : 2022.03 ~ 현재
   - 역할 : 신규 기능 추가 및 유지보수, Refactoring
   - Play Store : https://play.google.com/store/apps/details?id=kr.danal.app.damoum
-  
-  ![image](https://user-images.githubusercontent.com/79304650/190574117-7981a179-188d-496d-8f7a-113d196dad02.png)
+  <img src = "https://user-images.githubusercontent.com/79304650/190574117-7981a179-188d-496d-8f7a-113d196dad02.png" width="288px" height="512px">
 
   
  ### Rainus
