@@ -7,8 +7,7 @@
 
 - [3. 프로젝트](#프로젝트)
   - [3-1. Danal](#Danal)
-    - [1) Rainus Launcher](#RainusLauncher)
-    - [2) Rainus Player](#RainusPlayer)
+    - [1) Damoum](#Damoum)
   - [3-2. Rainus](#Rainus)
     - [1) Rainus Launcher](#RainusLauncher)
     - [2) Rainus Player](#RainusPlayer)
@@ -34,7 +33,7 @@
 > ## 개인정보
 <img src = "https://user-images.githubusercontent.com/79304650/151269762-8c641a31-fcbe-47e4-b34d-be1a1192551d.jpg" width="288px" height="512px">
   이름 : 최병철  
-  취미 : Side P/J 개발, 자전거, 스노우보드, 위스키, 여행, 캠핑, 낚시  
+  취미 : 스노우보드, 위스키, 여행, 캠핑, 낚시  
   병역 : 병장 만기전역  
   메일 : bcchoi0202@gmail.com  
   전화 : 010-6411-8658  
@@ -74,13 +73,16 @@
 
 > ## 사용기술
 ### Android
- - Kotlin, Kotlin DSL
+ - Kotlin
  - Koin, Hilt
  - rxJava, Coroutine
  - View/Data Binding
  - MVC, MVP, MVVM Design pattern
  - Firebase
  - Room, Realm, SQLite
+ - Jetpack AAC
+ - Jetpack Compose
+ - Groovy Gradle, Kotlin DSL
  
 ### Frontend
  테스트 등에 사용할 간단한 프로토타입을 개발할 수 있는 스킬을 가지고 있습니다.
@@ -101,7 +103,9 @@
 
 ### TODO
  현재는 아래 항목을 익히고 있습니다.
- - Andriod Jetpack Compose
+ - Clean architecture
+ - Jetpack Compose
+ - Android TDD
 
 <br/>
 <br/>
@@ -113,8 +117,10 @@
  Danal 통합 결제 서비스 (휴대폰 및 페이코인 결제 / 포인트(다모음캐시) 충전 및 결제 / 교회 헌금 계좌이체)
   - 기간 : 2022.03 ~ 현재
   - 역할 : 신규 기능 추가 및 유지보수, Refactoring
+  - Play Store : https://play.google.com/store/apps/details?id=kr.danal.app.damoum
   
-  
+  ![image](https://user-images.githubusercontent.com/79304650/190574117-7981a179-188d-496d-8f7a-113d196dad02.png)
+
   
  ### Rainus
 
