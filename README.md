@@ -6,10 +6,12 @@
 - [2. 경력사항](#경력사항)
 
 - [3. 프로젝트](#프로젝트)
-  - [3-1. Rainus](#Rainus)
+  - [3-1. Danal](#Danal)
+    - [1) Damoum](#Damoum)
+  - [3-2. Rainus](#Rainus)
     - [1) Rainus Launcher](#RainusLauncher)
     - [2) Rainus Player](#RainusPlayer)
-  - [3-2. Bixolon](#Bixolon)
+  - [3-3. Bixolon](#Bixolon)
     - [1) mPrintServer](#mPrintServer)
     - [2) PDF License Certification Server](#PDF-License-Certification-Server)
     - [3) Food Safety Label App](#Food-Safety-Label-App)
@@ -19,7 +21,7 @@
     - [5) Bixolon Downloader](#Bixolon-Downloader)
     - [6) Label Artist Mobile](#Label-Artist-Mobile)
     - [7) Label Printer SDK](#Label-Printer-SDK)
-  - [3-3. Zin Corp.](#ZinCorporation)
+  - [3-4. Zin Corp.](#ZinCorporation)
     - [1) 차세대 SPC Mobile POS](#SPC-Mobile-POS-Ver.2)
     - [2) Total Cunsunting Report(파리바게트, 파스쿠찌)](#Total-Cunsunting-Report)
     - [3) SPC Mobile POS](#SPC-Mobile-POS)
@@ -31,7 +33,7 @@
 > ## 개인정보
 <img src = "https://user-images.githubusercontent.com/79304650/151269762-8c641a31-fcbe-47e4-b34d-be1a1192551d.jpg" width="288px" height="512px">
   이름 : 최병철  
-  취미 : Side P/J 개발, 자전거, 스노우보드, 위스키, 여행, 캠핑, 낚시  
+  취미 : 스노우보드, 위스키, 여행, 캠핑, 낚시  
   병역 : 병장 만기전역  
   메일 : bcchoi0202@gmail.com  
   전화 : 010-6411-8658  
@@ -42,6 +44,12 @@
 <br/>
 
 > ## 경력사항 (총 경력 : 7년 5개월)
+[Danal](https://www.danalpay.com "다날")
+ - 근무기간 : 2022.03 ~ 재직중 (7개월)
+ - 포지션 : Android Developer 
+ - 근무부서 : 다모음팀
+ - 직급 : 과장
+ 
 [Rainus](https://www.rainusbiz.com "라인어스")
  - 근무기간 : 2021.07 ~ 2022.01 (7개월)
  - 포지션 : Android Developer 
@@ -65,18 +73,16 @@
 
 > ## 사용기술
 ### Android
- - Kotlin, Kotlin DSL
- - Koin
- - rxJava
+ - Kotlin
+ - Koin, Hilt
+ - rxJava, Coroutine
  - View/Data Binding
  - MVC, MVP, MVVM Design pattern
  - Firebase
  - Room, Realm, SQLite
-
-### Backend
- 테스트 등에 사용할 간단한 프로토타입을 개발할 수 있는 스킬을 가지고 있습니다. 
- - Python(flask)
- - Nodejs
+ - Jetpack AAC
+ - Jetpack Compose
+ - Groovy Gradle, Kotlin DSL
  
 ### Frontend
  테스트 등에 사용할 간단한 프로토타입을 개발할 수 있는 스킬을 가지고 있습니다.
@@ -91,19 +97,30 @@
  NOSQL : Mongo DB, Maria DB  
  
 ### 기타
- 이슈관리 : Github, Trello  
+ 이슈관리 : Github, Trello, Zira
  디자인 협업 : Zeplin  
  버전관리 : Git, SVN  
 
 ### TODO
  현재는 아래 항목을 익히고 있습니다.
- - Coroutine
- - Andriod Jetpack  
+ - Clean architecture
+ - Jetpack Compose
+ - Android TDD
 
 <br/>
 <br/>
 
 > ## 프로젝트
+ ### Danal
+ 
+ #### 1. Damoum App
+ Danal 통합 결제 서비스 (휴대폰 및 페이코인 결제 / 포인트(다모음캐시) 충전 및 결제 / 교회 헌금 계좌이체)
+  - 기간 : 2022.03 ~ 현재
+  - 역할 : 신규 기능 추가 및 유지보수, Refactoring
+  - Play Store : https://play.google.com/store/apps/details?id=kr.danal.app.damoum
+  <img src = "https://user-images.githubusercontent.com/79304650/190574117-7981a179-188d-496d-8f7a-113d196dad02.png" width="288px" height="512px">
+
+  
  ### Rainus
 
 #### 1. RainusLauncher
