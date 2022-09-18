@@ -43,7 +43,9 @@
 <br/>
 <br/>
 
-> ## 경력사항 (총 경력 : 7년 5개월)
+> ## 경력사항 
+> (총 경력 : 8년 1개월)
+
 [Danal](https://www.danalpay.com "다날")
  - 근무기간 : 2022.03 ~ 재직중 (7개월)
  - 포지션 : Android Developer 
@@ -111,9 +113,9 @@
 <br/>
 
 > ## 프로젝트
- ### Danal
+### Danal
  
- #### 1. Damoum App
+#### 1. Damoum App
  Danal 통합 결제 서비스 (휴대폰 및 페이코인 결제 / 포인트(다모음캐시) 충전 및 결제 / 교회 헌금 계좌이체)
   - 기간 : 2022.03 ~ 현재
   - 역할 : 신규 기능 추가 및 유지보수, Refactoring
@@ -121,7 +123,7 @@
   <img src = "https://user-images.githubusercontent.com/79304650/190574117-7981a179-188d-496d-8f7a-113d196dad02.png" width="288px" height="512px">
 
   
- ### Rainus
+### Rainus
 
 #### 1. RainusLauncher
  서버와 통신 및 장치 제어를 위한 Launcher Application
