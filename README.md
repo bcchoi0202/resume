@@ -3,15 +3,17 @@
 ## 목차
 - [1. 개인정보](#개인정보)
 
-- [2. 경력사항](#경력사항)
+- [2. 학력정보](#학력정보)
 
-- [3. 프로젝트](#프로젝트)
-  - [3-1. Danal](#Danal)
+- [3. 경력사항](#경력사항)
+
+- [4. 프로젝트](#프로젝트)
+  - [4-1. Danal](#Danal)
     - [1) Damoum](#Damoum)
-  - [3-2. Rainus](#Rainus)
+  - [4-2. Rainus](#Rainus)
     - [1) Rainus Launcher](#RainusLauncher)
     - [2) Rainus Player](#RainusPlayer)
-  - [3-3. Bixolon](#Bixolon)
+  - [4-3. Bixolon](#Bixolon)
     - [1) mPrintServer](#mPrintServer)
     - [2) PDF License Certification Server](#PDF-License-Certification-Server)
     - [3) Food Safety Label App](#Food-Safety-Label-App)
@@ -21,7 +23,7 @@
     - [5) Bixolon Downloader](#Bixolon-Downloader)
     - [6) Label Artist Mobile](#Label-Artist-Mobile)
     - [7) Label Printer SDK](#Label-Printer-SDK)
-  - [3-4. Zin Corp.](#ZinCorporation)
+  - [4-4. Zin Corp.](#ZinCorporation)
     - [1) 차세대 SPC Mobile POS](#SPC-Mobile-POS-Ver.2)
     - [2) Total Cunsunting Report(파리바게트, 파스쿠찌)](#Total-Cunsunting-Report)
     - [3) SPC Mobile POS](#SPC-Mobile-POS)
@@ -42,6 +44,14 @@
 
 <br/>
 <br/>
+
+> ## 학력정보
+  대학교 : 한신대학교 컴퓨터공학부 (2006.03 - 2014.02)
+  고등학교 : 수원 동원고등학교 이과계열 (2003.03 - 2006.02)
+
+<br/>
+<br/>
+
 
 > ## 경력사항 
 > (총 경력 : 8년 1개월)
