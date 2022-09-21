@@ -118,6 +118,7 @@
  - Clean architecture
  - Jetpack Compose
  - Android TDD
+ - MvRx(Mavericks; feat.airbnb)
 
 <br/>
 <br/>
