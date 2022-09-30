@@ -36,18 +36,11 @@
 <img src = "https://user-images.githubusercontent.com/79304650/151269762-8c641a31-fcbe-47e4-b34d-be1a1192551d.jpg" width="288px" height="512px">
   이름 : 최병철  
   취미 : 스노우보드, 위스키, 여행, 캠핑, 낚시  
-  병역 : 병장 만기전역  
+  병역 : 병장 만기전역
   메일 : bcchoi0202@gmail.com  
   전화 : 010-6411-8658  
   
   GitHub: https://github.com/bcchoi0202  
-
-<br/>
-<br/>
-
-> ## 학력정보
-  대학교 : 한신대학교 컴퓨터공학부 (2006.03 - 2014.02)</br>
-  고등학교 : 수원 동원고등학교 이과계열 (2003.03 - 2006.02)
 
 <br/>
 <br/>
