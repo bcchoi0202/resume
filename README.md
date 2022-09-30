@@ -3,17 +3,15 @@
 ## 목차
 - [1. 개인정보](#개인정보)
 
-- [2. 학력정보](#학력정보)
+- [2. 경력사항](#경력사항)
 
-- [3. 경력사항](#경력사항)
-
-- [4. 프로젝트](#프로젝트)
-  - [4-1. Danal](#Danal)
+- [3. 프로젝트](#프로젝트)
+  - [3-1. Danal](#Danal)
     - [1) Damoum](#Damoum)
-  - [4-2. Rainus](#Rainus)
+  - [3-2. Rainus](#Rainus)
     - [1) Rainus Launcher](#RainusLauncher)
     - [2) Rainus Player](#RainusPlayer)
-  - [4-3. Bixolon](#Bixolon)
+  - [3-3. Bixolon](#Bixolon)
     - [1) mPrintServer](#mPrintServer)
     - [2) PDF License Certification Server](#PDF-License-Certification-Server)
     - [3) Food Safety Label App](#Food-Safety-Label-App)
@@ -23,7 +21,7 @@
     - [5) Bixolon Downloader](#Bixolon-Downloader)
     - [6) Label Artist Mobile](#Label-Artist-Mobile)
     - [7) Label Printer SDK](#Label-Printer-SDK)
-  - [4-4. Zin Corp.](#ZinCorporation)
+  - [3-4. Zin Corp.](#ZinCorporation)
     - [1) 차세대 SPC Mobile POS](#SPC-Mobile-POS-Ver.2)
     - [2) Total Cunsunting Report(파리바게트, 파스쿠찌)](#Total-Cunsunting-Report)
     - [3) SPC Mobile POS](#SPC-Mobile-POS)
@@ -33,14 +31,12 @@
 <br/>
 
 > ## 개인정보
-<img src = "https://user-images.githubusercontent.com/79304650/151269762-8c641a31-fcbe-47e4-b34d-be1a1192551d.jpg" width="288px" height="512px">
-  이름 : 최병철  
-  취미 : 스노우보드, 위스키, 여행, 캠핑, 낚시  
-  병역 : 병장 만기전역
-  메일 : bcchoi0202@gmail.com  
-  전화 : 010-6411-8658  
-  
-  GitHub: https://github.com/bcchoi0202  
+<img src = "https://user-images.githubusercontent.com/79304650/151269762-8c641a31-fcbe-47e4-b34d-be1a1192551d.jpg" width="288px" height="512px">  
+  이름 : 최병철<br/>
+  취미 : 스노우보드, 위스키, 여행, 캠핑, 낚시<br/>
+  메일 : bcchoi0202@gmail.com<br/>
+  전화 : 010-6411-8658<br/>
+  GitHub: https://github.com/bcchoi0202<br/>
 
 <br/>
 <br/>
