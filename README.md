@@ -98,7 +98,7 @@
  NOSQL : Mongo DB, Maria DB  
  
 ### 기타
- 이슈관리 : Github, Trello, Zira
+ 이슈관리 : Github, Trello, Zira  
  디자인 협업 : Zeplin  
  버전관리 : Git, SVN  
 
