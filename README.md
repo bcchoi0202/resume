@@ -46,7 +46,7 @@
 > (총 경력 : 8년 1개월)
 
 [Danal](https://www.danalpay.com "다날")
- - 근무기간 : 2022.03 ~ 재직중 (7개월)
+ - 근무기간 : 2022.03 ~ 재직중 (10개월)
  - 포지션 : Android Developer 
  - 근무부서 : 다모음팀
  - 직급 : 과장
@@ -116,7 +116,7 @@
 ### Danal
  
 #### 1. Damoum App
- Danal 통합 결제 서비스 (휴대폰 및 페이코인 결제 / 포인트(다모음캐시) 충전 및 결제 / 교회 헌금 계좌이체)
+ Danal 통합 결제 서비스 (휴대폰 및 페이코인 결제 / 포인트(다모음캐시) 충전 및 결제 / 교회 헌금 계좌이체 / 다날 배터리카드 발급 및 관리 등)
   - 기간 : 2022.03 ~ 현재
   - 역할 : 신규 기능 추가 및 유지보수, Refactoring
   - Play Store : https://play.google.com/store/apps/details?id=kr.danal.app.damoum
@@ -136,7 +136,7 @@
  Signage 장치에 표시할 광고 재생 Application
   - 기간 : 2021.07 ~ 2022.02
   - 역할 : Android 개발 및 유지보수
-  - 지원 포맷 : Video, Webpage, Image 등 (항목 중 n개 조합)
+  - 지원 포맷 : Video, Webpage, Image, Widget 등 (항목 중 n개 조합)
 
 <br/>
 
@@ -165,8 +165,7 @@ PDF License 인증 Server
 - 기간 : 2020.01 ~ 2020.04(Back-end), 2020.11 ~ 2020.12(Front-end) 
 - 역할 : Backend / Frontend 개발
 - 사용기술 : NodeJS, VueJS, Mongo DB, Express Framework
-- URL : http://220.120.107.40:8081
-
+- URL : http://220.120.107.40:8081 (현재 사이트 폐쇄)
 
 
 #### 3. Food Safety Label App(McDonald's, Lotte GRS)
